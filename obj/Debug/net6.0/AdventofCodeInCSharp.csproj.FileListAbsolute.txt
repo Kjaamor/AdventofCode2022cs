@@ -1,0 +1,15 @@
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/obj/Debug/net6.0/AdventofCodeInCSharp.csproj.AssemblyReference.cache
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/obj/Debug/net6.0/AdventofCodeInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/obj/Debug/net6.0/AdventofCodeInCSharp.AssemblyInfoInputs.cache
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/obj/Debug/net6.0/AdventofCodeInCSharp.AssemblyInfo.cs
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/obj/Debug/net6.0/AdventofCodeInCSharp.csproj.CoreCompileInputs.cache
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/bin/Debug/net6.0/AdventofCodeInCSharp
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/bin/Debug/net6.0/AdventofCodeInCSharp.deps.json
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/bin/Debug/net6.0/AdventofCodeInCSharp.runtimeconfig.json
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/bin/Debug/net6.0/AdventofCodeInCSharp.dll
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/bin/Debug/net6.0/AdventofCodeInCSharp.pdb
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/obj/Debug/net6.0/AdventofCodeInCSharp.dll
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/obj/Debug/net6.0/refint/AdventofCodeInCSharp.dll
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/obj/Debug/net6.0/AdventofCodeInCSharp.pdb
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/obj/Debug/net6.0/AdventofCodeInCSharp.genruntimeconfig.cache
+/Users/james.okeefe/ChaletDecember22/AdventofCodeInCSharp/obj/Debug/net6.0/ref/AdventofCodeInCSharp.dll
