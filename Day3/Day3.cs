@@ -20,7 +20,7 @@ namespace Day3
                 int totalBadgeScore;
                 totalBadgeScore = JaggedTrioArrayToScore(TextArrayToTrios(day3textarray));
                 Console.Write("Day three second problem: ");
-                Console.WriteLine(totalBadgeScore);
+                Console.WriteLine(totalBadgeScore + "\n");
             }
 
             string[][] TextArrayToTrios(string[] day3textarray)

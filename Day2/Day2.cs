@@ -75,7 +75,7 @@ namespace Day2
                     totalscorewithdecider += roundscore;
                 }
                 Console.Write("Day two second problem: ");
-                Console.WriteLine(totalscorewithdecider);
+                Console.WriteLine(totalscorewithdecider  + "\n");
             }
 
             char WinLoseDrawDecider(char elfletter, char mystrategyletter){
